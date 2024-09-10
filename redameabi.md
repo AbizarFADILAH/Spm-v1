@@ -14,8 +14,8 @@ pkg install python3
 
 pkg install git
 
-git clone https://github.com/Projeckerror/spm
+git clone https://github.com/AbizarFADILAH/Spm-v1
 
-cd spm
+cd spm-v1
 
 python Spm.py
